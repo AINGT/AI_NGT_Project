@@ -5,7 +5,7 @@ Welcome to the official repository for the **AI Never Get Tired** project. Here 
 ## Whitepaper
 Discover the full vision behind AI N.G.T, including our mission, tokenomics, and roadmap for decentralized finance innovation.
 
-📄 [Download the AI N.G.T Whitepaper](https://github.com/YourRepo/AI_NGT_Project/blob/main/AI_NGT_Whitepaper_Improved.pdf)
+📄 [Download the AI N.G.T Whitepaper](https://github.com/AINGT/AI_NGT_Project/raw/main/AI_NGT_Whitepaper_Improved.pdf)
 
 ## What is AI N.G.T?
 AI N.G.T (AI Never Get Tired) is a blockchain project that bridges the gap between Artificial Intelligence (AI) and decentralized finance (DeFi). By leveraging cutting-edge technologies, we aim to redefine financial inclusivity and empower communities.
